@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour {
 
     private Rigidbody rigidBody;
     private Vector3 input, movement;
-    private Vector3
 
 	// Use this for initialization
 	void Awake () {
